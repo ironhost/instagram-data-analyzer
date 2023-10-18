@@ -14,7 +14,7 @@ English:
 Clone the Repository:
 Use the following command to clone this repository:
    ```sh
-git clone https://github.com/YOUR_USERNAME/instagram-data-analyzer.git
+git clone https://github.com/ironhost/instagram-data-analyzer.git
    ```
 Install Dependencies:
 Install necessary libraries using:
@@ -31,7 +31,7 @@ python main.py
 کلون کردن مخزن:
 با استفاده از دستور زیر، این مخزن را کلون کنید:
    ```sh
-git clone https://github.com/YOUR_USERNAME/instagram-data-analyzer.git
+git clone https://github.com/ironhost/instagram-data-analyzer.git
    ```
 
 نصب وابستگی‌ها:
