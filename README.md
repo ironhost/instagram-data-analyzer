@@ -13,33 +13,34 @@ English:
 
 Clone the Repository:
 Use the following command to clone this repository:
-bash
-Copy code
+   ```sh
 git clone https://github.com/YOUR_USERNAME/instagram-data-analyzer.git
+   ```
 Install Dependencies:
 Install necessary libraries using:
-bash
-Copy code
+   ```sh
 pip install -r requirements.txt
+   ```
 Execute the Script:
 Run the script using:
-bash
-Copy code
+   ```sh
 python main.py
+   ```
 فارسی:
 
 کلون کردن مخزن:
 با استفاده از دستور زیر، این مخزن را کلون کنید:
-bash
-Copy code
+   ```sh
 git clone https://github.com/YOUR_USERNAME/instagram-data-analyzer.git
+   ```
+
 نصب وابستگی‌ها:
 با استفاده از دستور زیر کتابخانه‌های مورد نیاز را نصب کنید:
-bash
-Copy code
+   ```sh
 pip install -r requirements.txt
+   ```
 اجرای اسکریپت:
 با استفاده از دستور زیر اسکریپت را اجرا کنید:
-bash
-Copy code
+   ```sh
 python main.py
+   ```
